@@ -26,6 +26,9 @@ the result type(V6) of showhand, it appears 2~9
 8 is Four of a Kind
 9 is Five of a kind
 }
+\seealso{
+  http://dino194340.pixnet.net/blog/post/17895352
+ }
 \examples{
 ###############
 play_showhand(10)
