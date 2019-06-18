@@ -18,6 +18,9 @@ It will tell you are win or lose or tie, and tell you the vendor's score and dic
 Now you compete with Sausage vendor(Computer)!!
 Enter the score and challenge with different difficulty!!
 }
+\seealso{
+https://zh.wikipedia.org/wiki/十八仔
+}
 \examples{
 sausage(throw)->dice
 play_eighteen_la(dice)->score
