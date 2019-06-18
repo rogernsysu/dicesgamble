@@ -17,6 +17,9 @@ If the player play the second time, it will return both score and the dices' poi
 After throwing a dice, we can calculate the score by rule.
 If the score we get in first time is zero, we can throw one more time.If we throw the second time but the score still be zero, the score will be zero.
 }
+\seealso{
+https://zh.wikipedia.org/wiki/十八仔  
+}
 \examples{
 ##No second times
 dices=c(2,2,5,6)
