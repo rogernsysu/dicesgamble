@@ -15,6 +15,9 @@ The original data frame and tell you who is/are  win in the game! The sixth colu
 \description{
 We can put the result we get in function play_showhand into the function, and determine who is win!
 }
+\seealso{
+http://dino194340.pixnet.net/blog/post/17895352
+}
 \examples{
 #################
 play_showhand(5)->play
