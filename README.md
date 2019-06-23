@@ -9,4 +9,4 @@ In the part of eighteen la, there are three functions, one is similar to throw f
 And other two functions can record the score that calculated by rule.
 
 
-As for the part of showhand, there are four functions, which can judge the card type and consider who is the winner in the showhand game.
+As for the part of showhand, there are four functions, which can judge the card type and tell the users who is the winner in the showhand game.
